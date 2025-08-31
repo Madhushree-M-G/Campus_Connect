@@ -67,7 +67,7 @@ Bookmarks: Save events for later
 -- npm run dev
 
 - Frontend
-cd frontend
-npm install
-npm start
+-- cd frontend
+-- npm install
+-- npm start
 
