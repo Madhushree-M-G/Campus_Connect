@@ -62,9 +62,9 @@ Bookmarks: Save events for later
 
 ## 🚀 Running the Project
 - Backend
-cd backend
-npm install
-npm run dev
+-- cd backend
+-- npm install
+-- npm run dev
 
 - Frontend
 cd frontend
